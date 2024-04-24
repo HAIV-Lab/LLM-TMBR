@@ -7,7 +7,7 @@ finetune open source llama2
 
 
 
-### 更新
+### update
 - [24/4/24] open code
 
 
@@ -16,7 +16,7 @@ finetune open source llama2
 
 
 
-## 使用指引
+## guidelines
 
 #### environment
 ```
