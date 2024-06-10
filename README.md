@@ -8,7 +8,7 @@ finetune open source llama2
 
 
 ### update
-- [24/4/24] open code
+- [24/6/10] open code
 
 
 
@@ -41,5 +41,8 @@ deepspeed==0.10.0
 - LoRA
 
 
-
-
+### How to run
+```
+cd ./script/sft
+bash run_sft.sh
+```
