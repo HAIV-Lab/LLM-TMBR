@@ -47,6 +47,18 @@ The code repository for "[Enhancing the General Agent Capabilities of Low-Parame
  We evaluate our method on five agent tasks of AgentBench and achieve satisfactory results. 
 <p></p>
 
+## Overall Process
+
+<div align="center">
+<img src="imgs/pip.png" width="93%">
+</div>
+<p></p>
+
+<div>
+We use GPT4 to generate agent data for sft. Besides, we employ backtracking and multi-branch reasoning techniques to optimize the performance of individual agent tasks.
+</div>
+
+
 ## Results
 <div>
 The following table shows the main results of our proposed method.
