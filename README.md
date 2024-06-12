@@ -15,7 +15,7 @@ through Tuning and Multi-Branch Reasoning
 <div>
 <sup>1</sup>School of Artificial Intelligence and Automation, Huazhong University of Science and Technology&emsp;
 
-<sup>2</sup>Alibaba  BeiJing Group&emsp;
+<sup>2</sup>Alibaba  Group&emsp;
 </div>
 </div>
 
