@@ -18,7 +18,7 @@
 </div>
 </div>
 
-The code repository for "[Enhancing the General Agent Capabilities of Low-Parameter LLMs]([https://github.com/HAIV-Lab/LLM-TMBR](https://aclanthology.org/2024.findings-naacl.184/)" in PyTorch.  If you use any content of this repo for your work, please cite the following bib entry: 
+The code repository for "[Enhancing the General Agent Capabilities of Low-Parameter LLMs]([https://github.com/HAIV-Lab/LLM-TMBR](https://aclanthology.org/2024.findings-naacl.184/])" in PyTorch.  If you use any content of this repo for your work, please cite the following bib entry: 
 
 ```
 @inproceedings{zhou2024enhancing,
