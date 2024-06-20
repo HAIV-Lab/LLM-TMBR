@@ -1,6 +1,5 @@
 
-# Enhancing the General Agent Capabilities of Low-Parameter LLMs
-through Tuning and Multi-Branch Reasoning
+# Enhancing the General Agent Capabilities of Low-Parameter LLMs through Tuning and Multi-Branch Reasoning
 <div align="center">
 
 <div>
@@ -22,10 +21,10 @@ through Tuning and Multi-Branch Reasoning
 The code repository for "[Enhancing the General Agent Capabilities of Low-Parameter LLMs](https://github.com/HAIV-Lab/LLM-TMBR)" in PyTorch.  If you use any content of this repo for your work, please cite the following bib entry: 
 
 ```
-@article{zhou2024enhancing,
+@inproceedings{zhou2024enhancing,
   title={Enhancing the General Agent Capabilities of Low-Parameter LLMs through Tuning and Multi-Branch Reasoning},
-  author={Zhou, Qinhao and Zhang, Zihan and Xiang, Xiang and Wang, Ke and Wu, Yuchuan and Li, Yongbin},
-  journal={arXiv preprint arXiv:2403.19962},
+  author={Zhou, Qinhao and Zhang, Zihan and Xiang*, Xiang and Wang, Ke and Wu, Yuchuan and Li, Yongbin},
+  booktitle={NAACL 2024 (Annual Conference of the North American Chapter of the Association for Computational Linguistics)},
   year={2024}
 }
 ```
